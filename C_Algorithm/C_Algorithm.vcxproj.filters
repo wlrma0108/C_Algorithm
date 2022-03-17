@@ -21,10 +21,22 @@
     <ClCompile Include="소스1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="소스2.cpp">
+    <ClCompile Include="CP_A.cpp">
       <Filter>소스 파일\Cp#2</Filter>
     </ClCompile>
-    <ClCompile Include="소스3.cpp">
+    <ClCompile Include="CP_B.cpp">
+      <Filter>소스 파일\Cp#2</Filter>
+    </ClCompile>
+    <ClCompile Include="CP_C.cpp">
+      <Filter>소스 파일\Cp#2</Filter>
+    </ClCompile>
+    <ClCompile Include="CP_D.cpp">
+      <Filter>소스 파일\Cp#2</Filter>
+    </ClCompile>
+    <ClCompile Include="소스.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CP_E.cpp">
       <Filter>소스 파일\Cp#2</Filter>
     </ClCompile>
   </ItemGroup>
