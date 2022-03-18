@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\Cp#2">
       <UniqueIdentifier>{95bbaa29-cd32-4836-b12f-461bb7331be8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\CP#3">
+      <UniqueIdentifier>{eed600cc-9d5e-4529-9c83-a905364ed720}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="소스1.cpp">
@@ -38,6 +41,24 @@
     </ClCompile>
     <ClCompile Include="CP_E.cpp">
       <Filter>소스 파일\Cp#2</Filter>
+    </ClCompile>
+    <ClCompile Include="CP_3A.cpp">
+      <Filter>소스 파일\CP#3</Filter>
+    </ClCompile>
+    <ClCompile Include="CP_3B.cpp">
+      <Filter>소스 파일\CP#3</Filter>
+    </ClCompile>
+    <ClCompile Include="CP_3C.cpp">
+      <Filter>소스 파일\CP#3</Filter>
+    </ClCompile>
+    <ClCompile Include="CP_3D.cpp">
+      <Filter>소스 파일\CP#3</Filter>
+    </ClCompile>
+    <ClCompile Include="CP_3E.cpp">
+      <Filter>소스 파일\CP#3</Filter>
+    </ClCompile>
+    <ClCompile Include="CP_3F.cpp">
+      <Filter>소스 파일\CP#3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
