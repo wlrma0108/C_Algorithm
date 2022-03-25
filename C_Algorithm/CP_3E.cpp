@@ -4,7 +4,8 @@
 
 int main(void) {
 
-	int num1, num2,a,b,c,d;
+	int num1, num2;
+	int a, b, c, d = 0;
 	scanf_s("%d %d ", &num1, &num2, sizeof(num1),sizeof(num2));
 	
 
