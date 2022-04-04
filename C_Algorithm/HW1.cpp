@@ -1,7 +1,6 @@
 #include<stdio.h>
 
 
-
 typedef struct Listdata {
 	char name[30];
 	int id;
@@ -20,9 +19,18 @@ typedef struct LinkedList {
 
 }linkedList;
 
+
+
 int main(void) {
 
 
 
 
 }
+
+int delete(linkedList* L, int x) {
+
+
+
+	return 1;
+};

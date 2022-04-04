@@ -28,11 +28,11 @@
     <Filter Include="소스 파일\Data_Structure#1">
       <UniqueIdentifier>{8d0e57c8-074e-42a8-9fea-6bfb5c78ebec}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Do_It">
+      <UniqueIdentifier>{7e3aa64e-1074-447b-99ae-92755d569740}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="소스1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="CP_A.cpp">
       <Filter>소스 파일\Cp#2</Filter>
     </ClCompile>
@@ -44,9 +44,6 @@
     </ClCompile>
     <ClCompile Include="CP_D.cpp">
       <Filter>소스 파일\Cp#2</Filter>
-    </ClCompile>
-    <ClCompile Include="소스.cpp">
-      <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="CP_E.cpp">
       <Filter>소스 파일\Cp#2</Filter>
@@ -68,9 +65,6 @@
     </ClCompile>
     <ClCompile Include="CP_3F.cpp">
       <Filter>소스 파일\CP#3</Filter>
-    </ClCompile>
-    <ClCompile Include="소스2.cpp">
-      <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="CP_4A.cpp">
       <Filter>소스 파일\CP#4</Filter>
@@ -98,6 +92,9 @@
     </ClCompile>
     <ClCompile Include="HW1.cpp">
       <Filter>소스 파일\Data_Structure#1</Filter>
+    </ClCompile>
+    <ClCompile Include="data1.cpp">
+      <Filter>소스 파일\Do_It</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
