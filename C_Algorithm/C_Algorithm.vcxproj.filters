@@ -93,7 +93,10 @@
     <ClCompile Include="HW1.cpp">
       <Filter>소스 파일\Data_Structure#1</Filter>
     </ClCompile>
-    <ClCompile Include="data1.cpp">
+    <ClCompile Include="data_1.cpp">
+      <Filter>소스 파일\Do_It</Filter>
+    </ClCompile>
+    <ClCompile Include="data_2.cpp">
       <Filter>소스 파일\Do_It</Filter>
     </ClCompile>
   </ItemGroup>
