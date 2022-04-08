@@ -31,6 +31,9 @@
     <Filter Include="소스 파일\Do_It">
       <UniqueIdentifier>{7e3aa64e-1074-447b-99ae-92755d569740}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\CP#6">
+      <UniqueIdentifier>{7fb3a5b8-717f-448f-8934-e3559e417271}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CP_A.cpp">
@@ -99,5 +102,34 @@
     <ClCompile Include="data_2.cpp">
       <Filter>소스 파일\Do_It</Filter>
     </ClCompile>
+    <ClCompile Include="CP_6A.cpp">
+      <Filter>소스 파일\CP#6</Filter>
+    </ClCompile>
+    <ClCompile Include="CP_6B.cpp">
+      <Filter>소스 파일\CP#6</Filter>
+    </ClCompile>
+    <ClCompile Include="CP_6C.cpp">
+      <Filter>소스 파일\CP#6</Filter>
+    </ClCompile>
+    <ClCompile Include="CP_6D.cpp">
+      <Filter>소스 파일\CP#6</Filter>
+    </ClCompile>
+    <ClCompile Include="CP_6E.cpp">
+      <Filter>소스 파일\CP#6</Filter>
+    </ClCompile>
+    <ClCompile Include="CP_6F.cpp">
+      <Filter>소스 파일\CP#6</Filter>
+    </ClCompile>
+    <ClCompile Include="CP_star_1.cpp">
+      <Filter>소스 파일\CP#6</Filter>
+    </ClCompile>
+    <ClCompile Include="CP_star_2.cpp">
+      <Filter>소스 파일\CP#6</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\..\Downloads\student.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
   </ItemGroup>
 </Project>
