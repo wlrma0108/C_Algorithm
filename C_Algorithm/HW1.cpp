@@ -1,13 +1,14 @@
 #include<stdio.h>
 #include<cstdio>
 #include<stdlib.h>
+
 typedef struct Listdata {
 	char name[30];
 	int id;
 
 }listData;
 
-typedef struct Listnode {
+typedef struct ListNode {
 
 	listData data;
 	struct ListNode* link;
@@ -18,8 +19,6 @@ typedef struct LinkedList {
 	int length;
 
 }linkedList;
-
-
 
 int main(void) {
 	int point = 0;
@@ -147,7 +146,7 @@ int delete_list(linkedList* L, int x) {
 
 	prev->next = temp->next;
 
-	free(temp); // Free memory
+	free(temp); // Free memoryi
 };
 
 void reverse(linkedList* L) {
