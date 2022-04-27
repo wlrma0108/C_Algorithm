@@ -34,6 +34,9 @@
     <Filter Include="소스 파일\CP#6">
       <UniqueIdentifier>{7fb3a5b8-717f-448f-8934-e3559e417271}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\C_Algorithm">
+      <UniqueIdentifier>{771ceba6-9219-427a-bc0c-915452d589d8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CP_A.cpp">
@@ -125,6 +128,9 @@
     </ClCompile>
     <ClCompile Include="CP_star_2.cpp">
       <Filter>소스 파일\CP#6</Filter>
+    </ClCompile>
+    <ClCompile Include="stack_1.cpp">
+      <Filter>소스 파일\C_Algorithm</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

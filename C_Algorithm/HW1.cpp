@@ -43,7 +43,6 @@ int main(void) {
 		int insert(linkedList * L, listNode * pre, listData item);
 		}
 	else if (command[0] == 'l') {
-		insertLast(linkedList * L, listData item);
 	}
 	else if (command[0] == 'd') {
 		int delete_list(linkedList * L, int x);
@@ -127,27 +126,7 @@ int insert(linkedList* L, listNode* pre, listData item) {
 	L->length++;
 
 }
-int delete_list(linkedList* L, int x) {
-	struct linkedList* temp = *L, * prev;
 
-	if (temp != NULL && temp->data == x) {
-		*head_ref = temp->next; 
-		free(temp); 
-		return;
-	}
-
-	while (temp != NULL && temp->data != x) {
-		prev = temp;
-		temp = temp->next;
-	}
-
-	if (temp == NULL)
-		return;
-
-	prev->next = temp->next;
-
-	free(temp); // Free memoryi
-};
 
 void reverse(linkedList* L) {
 	listNode* a;
