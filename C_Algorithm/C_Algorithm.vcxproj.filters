@@ -132,6 +132,15 @@
     <ClCompile Include="stack_1.cpp">
       <Filter>소스 파일\C_Algorithm</Filter>
     </ClCompile>
+    <ClCompile Include="Array_1.cpp">
+      <Filter>소스 파일\C_Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="Queue_1.cpp">
+      <Filter>소스 파일\C_Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="Test.c">
+      <Filter>소스 파일\Data_Structure#1</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="..\..\..\..\Downloads\student.txt">

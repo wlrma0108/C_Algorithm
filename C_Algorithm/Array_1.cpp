@@ -1,0 +1,36 @@
+#include<stdio.h>
+
+int main() {
+
+	int disp[2][3];
+	int i, j;
+	for (i = 0; i < 2; i++) {
+
+		for (j = 0; j < 3; j++) {
+
+			printf("Enter value for disp[%d][%d]]\n", i, j);
+			scanf("%d", &disp[i][j]);
+
+		}
+
+		printf("Two Dimensional array elements :n\n");
+		for (i = 0; i < 2; i++) {
+
+			for (j = 0; j < 3; j++) {
+				printf("%d\n", disp[i][j]);
+				if (j == 2) {
+					printf("n\n");
+				}
+			}
+
+		}
+
+	}
+
+
+
+	return 0;
+
+
+
+}
