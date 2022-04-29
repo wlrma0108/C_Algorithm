@@ -37,6 +37,9 @@
     <Filter Include="소스 파일\C_Algorithm">
       <UniqueIdentifier>{771ceba6-9219-427a-bc0c-915452d589d8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\CP#7">
+      <UniqueIdentifier>{8949e669-8221-4c3c-9e56-758b4494df97}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CP_A.cpp">
@@ -96,7 +99,7 @@
     <ClCompile Include="CP_5D.cpp">
       <Filter>소스 파일\CP#5</Filter>
     </ClCompile>
-    <ClCompile Include="HW1.cpp">
+    <ClCompile Include="HW1.c">
       <Filter>소스 파일\Data_Structure#1</Filter>
     </ClCompile>
     <ClCompile Include="data_1.cpp">
@@ -140,6 +143,18 @@
     </ClCompile>
     <ClCompile Include="Test.c">
       <Filter>소스 파일\Data_Structure#1</Filter>
+    </ClCompile>
+    <ClCompile Include="HW2.c">
+      <Filter>소스 파일\Data_Structure#1</Filter>
+    </ClCompile>
+    <ClCompile Include="CP_7A.cpp">
+      <Filter>소스 파일\CP#7</Filter>
+    </ClCompile>
+    <ClCompile Include="CP_7B.cpp">
+      <Filter>소스 파일\CP#7</Filter>
+    </ClCompile>
+    <ClCompile Include="CP_7C.cpp">
+      <Filter>소스 파일\CP#7</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
