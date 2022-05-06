@@ -25,9 +25,6 @@
     <Filter Include="소스 파일\CP#5">
       <UniqueIdentifier>{f686eb25-e550-4fa6-b1b9-7ff210766cdf}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\Data_Structure#1">
-      <UniqueIdentifier>{8d0e57c8-074e-42a8-9fea-6bfb5c78ebec}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\Do_It">
       <UniqueIdentifier>{7e3aa64e-1074-447b-99ae-92755d569740}</UniqueIdentifier>
     </Filter>
@@ -39,6 +36,12 @@
     </Filter>
     <Filter Include="소스 파일\CP#7">
       <UniqueIdentifier>{8949e669-8221-4c3c-9e56-758b4494df97}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CP#8">
+      <UniqueIdentifier>{42720c02-b44c-491f-9d03-9af49d09412a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CP#7\Data_Structure#1">
+      <UniqueIdentifier>{8d0e57c8-074e-42a8-9fea-6bfb5c78ebec}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -100,7 +103,7 @@
       <Filter>소스 파일\CP#5</Filter>
     </ClCompile>
     <ClCompile Include="HW1.c">
-      <Filter>소스 파일\Data_Structure#1</Filter>
+      <Filter>소스 파일\CP#7\Data_Structure#1</Filter>
     </ClCompile>
     <ClCompile Include="data_1.cpp">
       <Filter>소스 파일\Do_It</Filter>
@@ -142,10 +145,10 @@
       <Filter>소스 파일\C_Algorithm</Filter>
     </ClCompile>
     <ClCompile Include="Test.c">
-      <Filter>소스 파일\Data_Structure#1</Filter>
+      <Filter>소스 파일\CP#7\Data_Structure#1</Filter>
     </ClCompile>
     <ClCompile Include="HW2.c">
-      <Filter>소스 파일\Data_Structure#1</Filter>
+      <Filter>소스 파일\CP#7\Data_Structure#1</Filter>
     </ClCompile>
     <ClCompile Include="CP_7A.cpp">
       <Filter>소스 파일\CP#7</Filter>
@@ -157,13 +160,22 @@
       <Filter>소스 파일\CP#7</Filter>
     </ClCompile>
     <ClCompile Include="ex.cpp">
-      <Filter>소스 파일\Data_Structure#1</Filter>
+      <Filter>소스 파일\CP#7\Data_Structure#1</Filter>
     </ClCompile>
     <ClCompile Include="..\..\..\..\Downloads\maze_search.cpp">
-      <Filter>소스 파일\Data_Structure#1</Filter>
+      <Filter>소스 파일\CP#7\Data_Structure#1</Filter>
     </ClCompile>
     <ClCompile Include="CP_7D.cpp">
       <Filter>소스 파일\CP#7</Filter>
+    </ClCompile>
+    <ClCompile Include="CP_8A.cpp">
+      <Filter>소스 파일\CP#8</Filter>
+    </ClCompile>
+    <ClCompile Include="CP_8B.cpp">
+      <Filter>소스 파일\CP#8</Filter>
+    </ClCompile>
+    <ClCompile Include="CP_8C.cpp">
+      <Filter>소스 파일\CP#8</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -173,5 +185,15 @@
     <Text Include="..\..\..\..\Downloads\HW #2 (2)\maze_14_2.txt">
       <Filter>리소스 파일</Filter>
     </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C_Algorithm.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
   </ItemGroup>
 </Project>
