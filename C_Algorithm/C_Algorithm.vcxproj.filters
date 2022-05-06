@@ -177,6 +177,15 @@
     <ClCompile Include="CP_8C.cpp">
       <Filter>소스 파일\CP#8</Filter>
     </ClCompile>
+    <ClCompile Include="CP_8D.cpp">
+      <Filter>소스 파일\CP#8</Filter>
+    </ClCompile>
+    <ClCompile Include="CP_8E.cpp">
+      <Filter>소스 파일\CP#8</Filter>
+    </ClCompile>
+    <ClCompile Include="Cp_8F.cpp">
+      <Filter>소스 파일\CP#8</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="..\..\..\..\Downloads\student.txt">
