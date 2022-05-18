@@ -11,6 +11,9 @@ int main(void) {
 	scanf("%s", &search);
 	// 사전 하나하나 찾아가며 목표단어와 일치하는지 확인후 일치한다면 출력 
 	for (int i = 0; i < 15; i++) {
+		if (search == "q") {
+			break;
+		}
 		if (strcmp(dictionary[i][0], search) == 0) {
 
 			printf("%s \t %s", search, dictionary[i][1]);

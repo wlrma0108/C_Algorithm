@@ -192,12 +192,18 @@
     <ClCompile Include="CP9_A.cpp">
       <Filter>소스 파일\CP#9</Filter>
     </ClCompile>
+    <ClCompile Include="Pro_A.cpp">
+      <Filter>소스 파일\CP#9</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="..\..\..\..\Downloads\student.txt">
       <Filter>리소스 파일</Filter>
     </Text>
     <Text Include="..\..\..\..\Downloads\HW #2 (2)\maze_14_2.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\server (1).txt">
       <Filter>리소스 파일</Filter>
     </Text>
   </ItemGroup>
