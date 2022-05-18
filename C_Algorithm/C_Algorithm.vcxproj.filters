@@ -43,6 +43,9 @@
     <Filter Include="소스 파일\CP#7\Data_Structure#1">
       <UniqueIdentifier>{8d0e57c8-074e-42a8-9fea-6bfb5c78ebec}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\CP#9">
+      <UniqueIdentifier>{ea7d2f38-cf93-4a1b-8238-38292ba65032}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CP_A.cpp">
@@ -185,6 +188,9 @@
     </ClCompile>
     <ClCompile Include="Cp_8F.cpp">
       <Filter>소스 파일\CP#8</Filter>
+    </ClCompile>
+    <ClCompile Include="CP9_A.cpp">
+      <Filter>소스 파일\CP#9</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
