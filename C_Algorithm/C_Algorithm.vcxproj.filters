@@ -46,6 +46,9 @@
     <Filter Include="소스 파일\CP#9">
       <UniqueIdentifier>{ea7d2f38-cf93-4a1b-8238-38292ba65032}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\BST">
+      <UniqueIdentifier>{bf2e83e2-4916-437f-ab2a-6150609663b3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CP_A.cpp">
@@ -197,6 +200,9 @@
     </ClCompile>
     <ClCompile Include="CP9_B.cpp">
       <Filter>소스 파일\CP#9</Filter>
+    </ClCompile>
+    <ClCompile Include="BST.cpp">
+      <Filter>소스 파일\BST</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
