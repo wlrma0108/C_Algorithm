@@ -210,6 +210,9 @@
     <ClCompile Include="CP10_A.cpp">
       <Filter>소스 파일\CP#10</Filter>
     </ClCompile>
+    <ClCompile Include="BUS_2.cpp">
+      <Filter>소스 파일\CP#10</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="..\..\..\..\Downloads\student.txt">

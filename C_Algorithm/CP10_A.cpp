@@ -73,8 +73,42 @@ int main(void) {
 
 		printf("%d\n", bubble[k]);
 	}
-
-
+	for (int i = 0; i < 5; i++) {
+		if (bubble[i] == a.age) {
+			printf("이름: %s\n", a.name);
+			printf("이름: %s\n", a.address);
+			printf("이름: %s\n", a.studentcode);
+			printf("이름: %d\n", a.age);
+		}
+		else if (bubble[i] == b.age) {
+			printf("이름: %s\n", b.name);
+			printf("이름: %s\n", b.address);
+			printf("이름: %s\n", b.studentcode);
+			printf("이름: %d\n", b.age);
+		}
+		else if (bubble[i] == c.age) {
+			printf("이름: %s\n", c.name);
+			printf("이름: %s\n", c.address);
+			printf("이름: %s\n", c.studentcode);
+			printf("이름: %d\n", c.age);
+		}
+		else if (bubble[i] == d.age) {
+			printf("이름: %s\n", d.name);
+			printf("이름: %s\n", d.address);
+			printf("이름: %s\n", d.studentcode);
+			printf("이름: %d\n", c.age);
+		}
+		else if (bubble[i] == e.age) {
+			printf("이름: %s\n", e.name);
+			printf("이름: %s\n", e.address);
+			printf("이름: %s\n", e.studentcode);
+			printf("이름: %d\n", e.age);
+		}
+	}
 
 	return 0;
 }
+
+
+
+
