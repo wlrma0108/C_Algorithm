@@ -213,6 +213,12 @@
     <ClCompile Include="BUS_2.cpp">
       <Filter>소스 파일\CP#10</Filter>
     </ClCompile>
+    <ClCompile Include="CT.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CP10_B.cpp">
+      <Filter>소스 파일\CP#10</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="..\..\..\..\Downloads\student.txt">
