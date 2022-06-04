@@ -228,6 +228,9 @@
     <ClCompile Include="CP11_B.cpp">
       <Filter>소스 파일\CP#11</Filter>
     </ClCompile>
+    <ClCompile Include="CP_BUS3.cpp">
+      <Filter>소스 파일\CP#11</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="..\..\..\..\Downloads\student.txt">
